@@ -1,4 +1,4 @@
-# 
+# updated Polymarket Algorithm | gas-optimization + event-driven-trading is the best Polymarket algorithm, featuring gas-optimization and event-driven-trading. Smart, fast, and
 
 
 
